@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/OutdoorsScene.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 1
+    path: Assets/Scene/userINTERFACE/MainMenu.unity
+    guid: f11e72f50e1aff340ba65c42a9e5085d
+  - enabled: 1
+    path: Assets/Scene/Gallery/Gallery.unity
+    guid: f6a48b99aeb5ef749822b5f9acb13ccf
+  - enabled: 1
+    path: Assets/Scene/Level1/Level1.unity
+    guid: 7769f33fb4fa2e5458344a36556ad760
+  - enabled: 1
+    path: Assets/Scene/Level2/Level2.unity
+    guid: 5a463281e6e238742a45430f11e82829
+  - enabled: 1
+    path: Assets/Scene/Level3/Level3.unity
+    guid: bbdb6f50c895293448b4026da4e16f0a
+  - enabled: 1
+    path: Assets/Scene/Video/Video.unity
+    guid: 49d5b5aa9391db3449a0707f4d90f349
+  - enabled: 1
+    path: Assets/Scene/Quiz/Quiz.unity
+    guid: 0e708d0a35576f449b1eec2299e73b71
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0d7c1f00ab9015b48b77941ac3c712f1, type: 2}
+  m_UseUCBPForAssetBundles: 0
