@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\GameDevelopment2Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A3436B-D8D7-52FF-EF89-9FFFCB9CD90B}|Unity.Cinemachine.Editor.csproj|c:\\users\\user\\documents\\github\\gamedevelopment2assignment\\library\\packagecache\\com.unity.cinemachine@624f919d8cdd\\editor\\windows\\cinemachinesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A3436B-D8D7-52FF-EF89-9FFFCB9CD90B}|Unity.Cinemachine.Editor.csproj|solutionrelative:library\\packagecache\\com.unity.cinemachine@624f919d8cdd\\editor\\windows\\cinemachinesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\GameDevelopment2Assignment\\Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Runtime\\Behaviours\\CinemachineStoryboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Runtime\\Behaviours\\CinemachineStoryboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CinemachineSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\GameDevelopment2Assignment\\Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Editor\\Windows\\CinemachineSettings.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Editor\\Windows\\CinemachineSettings.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\GameDevelopment2Assignment\\Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Editor\\Windows\\CinemachineSettings.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Editor\\Windows\\CinemachineSettings.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAIA5wHoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T18:31:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemachineStoryboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\GameDevelopment2Assignment\\Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Runtime\\Behaviours\\CinemachineStoryboard.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Runtime\\Behaviours\\CinemachineStoryboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\GameDevelopment2Assignment\\Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Runtime\\Behaviours\\CinemachineStoryboard.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.cinemachine@624f919d8cdd\\Runtime\\Behaviours\\CinemachineStoryboard.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAEwMsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T18:29:23.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
